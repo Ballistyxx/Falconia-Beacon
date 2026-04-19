@@ -1,0 +1,17 @@
+Falconia-Beacon_PCB1_2026-01-26.epro
+/PCB/Programmer/.history
+/PCB/Panel/.history
+/PCB/Falconia-Beacon/.history
+/PCB/Charger/.history
+/PCB/Programmer/programmer-backups
+/PCB/Panel/production
+/PCB/Panel/Panel-backups
+/PCB/Falconia-Beacon/Falconia-Beacon-backups
+/PCB/Falconia-Beacon/panel
+/PCB/Charger/charger-backups
+
+*.bak
+*.epro
+*.elf
+*.hex
+blink_pb4.c

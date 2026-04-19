@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "JLCPCB_Footprints")(type "KiCad")(uri "${KIPRJMOD}/jlcpcb_lib/JLCPCB_Footprints.pretty")(options "")(descr "JLCPCB imported footprints"))
+)
